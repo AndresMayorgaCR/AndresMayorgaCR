@@ -53,5 +53,5 @@ Software Engineer with more than 4 years of experience in the field, my greatest
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andr%C3%A9s-mayorga-espinoza-127b9a173/#gh-light-mode-only)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andr%C3%A9s-mayorga-espinoza-127b9a173/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/andresmayorga7/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/andresmayorga7/#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/andresmayorga7/#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/andresmayorga7/#gh-dark-mode-only)
